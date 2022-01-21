@@ -11,7 +11,7 @@
 
 #### 2..运行main.py
 通过CMD运行main.py或双击Start.cmd
-需要注意使用安装了
+注意需要使用安装了docx库的3.0版本以上的Python
 
 #### 3..选择金山词霸导出的生词本文件
 ![cover](https://user-images.githubusercontent.com/98162384/150533008-2176b2ba-7d8f-4310-a69e-e655f4684206.png)
