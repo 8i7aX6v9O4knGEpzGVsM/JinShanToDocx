@@ -4,6 +4,11 @@
 ## 注意事项
 需要 Python3 和 python-docx包
 
+## 下载方法
+![cover](https://user-images.githubusercontent.com/98162384/150539582-35bcd5bb-e2b4-4265-906c-5334fcdc24bb.png)
+
+
+
 ## 使用方法
 
 #### 1.将需要打印的生词本从金山词霸导出
